@@ -10,3 +10,16 @@ body{
   width: 1000px;
   height: 600px
 }
+#name {
+  text-align: center;
+  font-size: 50px;
+  position:fixed;
+  top: 80%;
+  color: white;
+  text-shadow:
+    3px 3px 0 green,
+   -1px -1px 0 red,
+    1px -1px 0 yellow,
+   -1px  1px 0 blue,
+    1px  1px 0 teal;
+}
